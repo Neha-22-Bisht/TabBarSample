@@ -43,7 +43,7 @@
         <!--Home-->
         <scene sceneID="jbG-Kt-p4D">
             <objects>
-                <viewController title="Home" id="21R-Va-nnQ" sceneMemberID="viewController">
+                <viewController title="Home" id="21R-Va-nnQ" customClass="HomeViewController" customModule="TabDrawer" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="R5Q-bq-PeK">
                         <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
